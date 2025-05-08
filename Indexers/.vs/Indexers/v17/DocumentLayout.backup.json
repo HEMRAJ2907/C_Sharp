@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Indexers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E38AFA-5CA7-46A1-804F-FBE927F151B8}|..\\Singleton\\Singleton.csproj|c:\\users\\suratiya\\desktop\\c#\\assignments\\singleton\\dllref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E38AFA-5CA7-46A1-804F-FBE927F151B8}|..\\Singleton\\Singleton.csproj|c:\\users\\suratiya\\desktop\\c#\\assignments\\singleton\\singleton3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Singleton||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E38AFA-5CA7-46A1-804F-FBE927F151B8}|..\\Singleton\\Singleton.csproj|c:\\users\\suratiya\\desktop\\c#\\assignments\\singleton\\singleton1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E38AFA-5CA7-46A1-804F-FBE927F151B8}|..\\Singleton\\Singleton.csproj|c:\\users\\suratiya\\desktop\\c#\\assignments\\singleton\\singleton2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E38AFA-5CA7-46A1-804F-FBE927F151B8}|..\\Singleton\\Singleton.csproj|c:\\users\\suratiya\\desktop\\c#\\assignments\\singleton\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DLLref.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Singleton\\DLLref.cs",
+              "RelativeDocumentMoniker": "..\\Singleton\\DLLref.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Singleton\\DLLref.cs*",
+              "RelativeToolTip": "..\\Singleton\\DLLref.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:13:05.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Singleton",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Singleton\\Singleton.csproj",
+              "RelativeDocumentMoniker": "..\\Singleton\\Singleton.csproj",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Singleton\\Singleton.csproj*",
+              "RelativeToolTip": "..\\Singleton\\Singleton.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T09:50:33.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "singleton3.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Singleton\\singleton3.cs",
+              "RelativeDocumentMoniker": "..\\Singleton\\singleton3.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Singleton\\singleton3.cs",
+              "RelativeToolTip": "..\\Singleton\\singleton3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:19:55.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "singleton1.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Singleton\\singleton1.cs",
+              "RelativeDocumentMoniker": "..\\Singleton\\singleton1.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Singleton\\singleton1.cs",
+              "RelativeToolTip": "..\\Singleton\\singleton1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:34:49.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "singleton2.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Singleton\\singleton2.cs",
+              "RelativeDocumentMoniker": "..\\Singleton\\singleton2.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Singleton\\singleton2.cs",
+              "RelativeToolTip": "..\\Singleton\\singleton2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:20:22.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA47D323-04BC-4EEF-AE81-1768F0875812}|Practice C#\\Practice C#.csproj|c:\\users\\suratiya\\desktop\\c#\\assignments\\oops_concepts\\practice c#\\practiceconstruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA47D323-04BC-4EEF-AE81-1768F0875812}|Practice C#\\Practice C#.csproj|solutionrelative:practice c#\\practiceconstruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practice C#||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DF9C8D-3F1B-439D-BE1D-A4729A4BF3EF}|OOPs_Concepts\\OOPs_Concepts.csproj|C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\oops_concepts\\static_and_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DF9C8D-3F1B-439D-BE1D-A4729A4BF3EF}|OOPs_Concepts\\OOPs_Concepts.csproj|solutionrelative:oops_concepts\\static_and_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA47D323-04BC-4EEF-AE81-1768F0875812}|Practice C#\\Practice C#.csproj|C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\practice c#\\practice 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA47D323-04BC-4EEF-AE81-1768F0875812}|Practice C#\\Practice C#.csproj|solutionrelative:practice c#\\practice 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DF9C8D-3F1B-439D-BE1D-A4729A4BF3EF}|OOPs_Concepts\\OOPs_Concepts.csproj|C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\oops_concepts\\has-a2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DF9C8D-3F1B-439D-BE1D-A4729A4BF3EF}|OOPs_Concepts\\OOPs_Concepts.csproj|solutionrelative:oops_concepts\\has-a2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DF9C8D-3F1B-439D-BE1D-A4729A4BF3EF}|OOPs_Concepts\\OOPs_Concepts.csproj|C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\oops_concepts\\has-a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DF9C8D-3F1B-439D-BE1D-A4729A4BF3EF}|OOPs_Concepts\\OOPs_Concepts.csproj|solutionrelative:oops_concepts\\has-a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assignments||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OOPs_Concepts||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DF9C8D-3F1B-439D-BE1D-A4729A4BF3EF}|OOPs_Concepts\\OOPs_Concepts.csproj|C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\oops_concepts\\has-a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DF9C8D-3F1B-439D-BE1D-A4729A4BF3EF}|OOPs_Concepts\\OOPs_Concepts.csproj|solutionrelative:oops_concepts\\has-a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OOPs_Concepts",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\OOPs_Concepts\\OOPs_Concepts.csproj",
+              "RelativeDocumentMoniker": "OOPs_Concepts\\OOPs_Concepts.csproj",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\OOPs_Concepts\\OOPs_Concepts.csproj",
+              "RelativeToolTip": "OOPs_Concepts\\OOPs_Concepts.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-07T06:28:17.067Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice C#",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\Practice C#\\Practice C#.csproj",
+              "RelativeDocumentMoniker": "Practice C#\\Practice C#.csproj",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\Practice C#\\Practice C#.csproj",
+              "RelativeToolTip": "Practice C#\\Practice C#.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T05:50:14.589Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assignments",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Assignments\\Assignments\\Assignments.csproj",
+              "RelativeDocumentMoniker": "..\\Assignments\\Assignments\\Assignments.csproj",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Assignments\\Assignments\\Assignments.csproj",
+              "RelativeToolTip": "..\\Assignments\\Assignments\\Assignments.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T05:50:29.289Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "static_and_copy.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\OOPs_Concepts\\static_and_copy.cs",
+              "RelativeDocumentMoniker": "OOPs_Concepts\\static_and_copy.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\OOPs_Concepts\\static_and_copy.cs",
+              "RelativeToolTip": "OOPs_Concepts\\static_and_copy.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:06:54.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practiceconstruc.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\Practice C#\\practiceconstruc.cs",
+              "RelativeDocumentMoniker": "Practice C#\\practiceconstruc.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\Practice C#\\practiceconstruc.cs",
+              "RelativeToolTip": "Practice C#\\practiceconstruc.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:47:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "practice 1.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\Practice C#\\practice 1.cs",
+              "RelativeDocumentMoniker": "Practice C#\\practice 1.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\Practice C#\\practice 1.cs",
+              "RelativeToolTip": "Practice C#\\practice 1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:28:47.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "has-a2.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\OOPs_Concepts\\has-a2.cs",
+              "RelativeDocumentMoniker": "OOPs_Concepts\\has-a2.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\OOPs_Concepts\\has-a2.cs",
+              "RelativeToolTip": "OOPs_Concepts\\has-a2.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:51:00.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "has-a.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\OOPs_Concepts\\has-a.cs",
+              "RelativeDocumentMoniker": "OOPs_Concepts\\has-a.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\OOPs_Concepts\\has-a.cs",
+              "RelativeToolTip": "OOPs_Concepts\\has-a.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:13:39.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "has-a1.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\OOPs_Concepts\\has-a1.cs",
+              "RelativeDocumentMoniker": "OOPs_Concepts\\has-a1.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\OOPs_Concepts\\OOPs_Concepts\\has-a1.cs",
+              "RelativeToolTip": "OOPs_Concepts\\has-a1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:11:17.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

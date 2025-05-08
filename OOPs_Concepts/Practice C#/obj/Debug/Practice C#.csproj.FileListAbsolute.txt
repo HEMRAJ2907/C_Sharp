@@ -1,0 +1,7 @@
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\Practice C#\bin\Debug\Practice_C_.exe.config
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\Practice C#\bin\Debug\Practice_C_.exe
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\Practice C#\bin\Debug\Practice_C_.pdb
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\Practice C#\obj\Debug\Practice C#.csproj.AssemblyReference.cache
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\Practice C#\obj\Debug\Practice C#.csproj.CoreCompileInputs.cache
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\Practice C#\obj\Debug\Practice_C_.exe
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\Practice C#\obj\Debug\Practice_C_.pdb

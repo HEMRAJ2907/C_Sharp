@@ -1,0 +1,7 @@
+C:\Users\suratiya\Desktop\C#\Assignments\Access_Modifire\bin\Debug\Access_Modifire.exe.config
+C:\Users\suratiya\Desktop\C#\Assignments\Access_Modifire\bin\Debug\Access_Modifire.exe
+C:\Users\suratiya\Desktop\C#\Assignments\Access_Modifire\bin\Debug\Access_Modifire.pdb
+C:\Users\suratiya\Desktop\C#\Assignments\Access_Modifire\obj\Debug\Access_Modifire.csproj.AssemblyReference.cache
+C:\Users\suratiya\Desktop\C#\Assignments\Access_Modifire\obj\Debug\Access_Modifire.csproj.CoreCompileInputs.cache
+C:\Users\suratiya\Desktop\C#\Assignments\Access_Modifire\obj\Debug\Access_Modifire.exe
+C:\Users\suratiya\Desktop\C#\Assignments\Access_Modifire\obj\Debug\Access_Modifire.pdb

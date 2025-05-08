@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Access_Modifire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0230DA5C-60A8-4148-85C5-58D753AAB44D}|Access_Modifire.csproj|c:\\users\\suratiya\\desktop\\c#\\assignments\\access_modifire\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0230DA5C-60A8-4148-85C5-58D753AAB44D}|Access_Modifire.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0230DA5C-60A8-4148-85C5-58D753AAB44D}|Access_Modifire.csproj|c:\\users\\suratiya\\desktop\\c#\\assignments\\access_modifire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0230DA5C-60A8-4148-85C5-58D753AAB44D}|Access_Modifire.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Access_Modifire||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0230DA5C-60A8-4148-85C5-58D753AAB44D}|Access_Modifire.csproj|c:\\users\\suratiya\\desktop\\c#\\assignments\\access_modifire\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Access_Modifire",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Access_Modifire\\Access_Modifire.csproj",
+              "RelativeDocumentMoniker": "Access_Modifire.csproj",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Access_Modifire\\Access_Modifire.csproj",
+              "RelativeToolTip": "Access_Modifire.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-08T05:48:14.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Access_Modifire\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Access_Modifire\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:46:11.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Access_Modifire\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\suratiya\\Desktop\\C#\\Assignments\\Access_Modifire\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:28:31.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

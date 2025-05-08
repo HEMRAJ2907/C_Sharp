@@ -1,0 +1,7 @@
+C:\Users\suratiya\Desktop\C#\Assignments\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\suratiya\Desktop\C#\Assignments\Delegates\bin\Debug\Delegates.exe
+C:\Users\suratiya\Desktop\C#\Assignments\Delegates\bin\Debug\Delegates.pdb
+C:\Users\suratiya\Desktop\C#\Assignments\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\suratiya\Desktop\C#\Assignments\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\suratiya\Desktop\C#\Assignments\Delegates\obj\Debug\Delegates.exe
+C:\Users\suratiya\Desktop\C#\Assignments\Delegates\obj\Debug\Delegates.pdb

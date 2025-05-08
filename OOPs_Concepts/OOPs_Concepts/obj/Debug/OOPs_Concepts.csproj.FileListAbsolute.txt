@@ -1,0 +1,7 @@
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\OOPs_Concepts\obj\Debug\OOPs_Concepts.csproj.AssemblyReference.cache
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\OOPs_Concepts\obj\Debug\OOPs_Concepts.csproj.CoreCompileInputs.cache
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\OOPs_Concepts\bin\Debug\OOPs_Concepts.exe.config
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\OOPs_Concepts\bin\Debug\OOPs_Concepts.exe
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\OOPs_Concepts\bin\Debug\OOPs_Concepts.pdb
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\OOPs_Concepts\obj\Debug\OOPs_Concepts.exe
+C:\Users\suratiya\Desktop\C#\Assignments\OOPs_Concepts\OOPs_Concepts\obj\Debug\OOPs_Concepts.pdb

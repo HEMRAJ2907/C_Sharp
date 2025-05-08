@@ -1,0 +1,7 @@
+C:\Users\suratiya\Desktop\C#\Assignments\Partial classes\bin\Debug\Partial classes.exe.config
+C:\Users\suratiya\Desktop\C#\Assignments\Partial classes\bin\Debug\Partial classes.exe
+C:\Users\suratiya\Desktop\C#\Assignments\Partial classes\bin\Debug\Partial classes.pdb
+C:\Users\suratiya\Desktop\C#\Assignments\Partial classes\obj\Debug\Partial classes.csproj.AssemblyReference.cache
+C:\Users\suratiya\Desktop\C#\Assignments\Partial classes\obj\Debug\Partial classes.csproj.CoreCompileInputs.cache
+C:\Users\suratiya\Desktop\C#\Assignments\Partial classes\obj\Debug\Partial classes.exe
+C:\Users\suratiya\Desktop\C#\Assignments\Partial classes\obj\Debug\Partial classes.pdb
