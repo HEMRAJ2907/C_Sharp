@@ -1,0 +1,7 @@
+C:\Users\suratiya\Desktop\C#\Assignments\Assignments\Assignments\bin\Debug\Assignments.exe.config
+C:\Users\suratiya\Desktop\C#\Assignments\Assignments\Assignments\bin\Debug\Assignments.exe
+C:\Users\suratiya\Desktop\C#\Assignments\Assignments\Assignments\bin\Debug\Assignments.pdb
+C:\Users\suratiya\Desktop\C#\Assignments\Assignments\Assignments\obj\Debug\Assignments.csproj.AssemblyReference.cache
+C:\Users\suratiya\Desktop\C#\Assignments\Assignments\Assignments\obj\Debug\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\suratiya\Desktop\C#\Assignments\Assignments\Assignments\obj\Debug\Assignments.exe
+C:\Users\suratiya\Desktop\C#\Assignments\Assignments\Assignments\obj\Debug\Assignments.pdb
